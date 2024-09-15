@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|c:\\users\\danie\\source\\repos\\myweatherapp\\myweatherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|C:\\Users\\danie\\source\\repos\\MyWeatherApp\\myweatherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|C:\\Users\\danie\\source\\repos\\MyWeatherApp\\myweatherapp\\weathermapresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\weathermapresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|C:\\Users\\danie\\source\\repos\\MyWeatherApp\\myweatherapp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|C:\\Users\\danie\\source\\repos\\MyWeatherApp\\myweatherapp\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|C:\\Users\\danie\\source\\repos\\MyWeatherApp\\myweatherapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47E56DA0-D8BD-4E9D-8AC2-9CF7D16660D4}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 175,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\Weather.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\Weather.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\Weather.cs",
+              "RelativeToolTip": "MyWeatherApp\\Weather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:08:06.184Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\App.xaml",
+              "RelativeDocumentMoniker": "MyWeatherApp\\App.xaml",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\App.xaml",
+              "RelativeToolTip": "MyWeatherApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T19:21:33.052Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\Main.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\Main.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\Main.cs",
+              "RelativeToolTip": "MyWeatherApp\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:45:10.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherMapResponse.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\WeatherMapResponse.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\WeatherMapResponse.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\WeatherMapResponse.cs",
+              "RelativeToolTip": "MyWeatherApp\\WeatherMapResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:45:01.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MyWeatherApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\MainWindow.xaml",
+              "RelativeToolTip": "MyWeatherApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T14:50:13.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\MyWeatherApp\\MyWeatherApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MyWeatherApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:50:12.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
