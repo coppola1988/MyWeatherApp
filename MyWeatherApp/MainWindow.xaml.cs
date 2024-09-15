@@ -56,6 +56,7 @@ namespace MyWeatherApp
                 finalImage = "snow.png";
             }
 
+
             backgroundImage.ImageSource = new BitmapImage(new Uri("Images/" + finalImage, UriKind.Relative));
             LabelTemperature.Content = result.main.temp.ToString("F1") + "°C";
             LabelInfo.Content = result.weather[0].main;
@@ -78,5 +79,6 @@ namespace MyWeatherApp
             string query = textBoxQuery.Text;
             UpdadeData(query);
         }
+       /* Made by Daniele Coppola*/
     }
 }
